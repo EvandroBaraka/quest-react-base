@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://EvandroBaraka.github.io/quest-react-base",
+  "homepage": "https://evandrobaraka.github.io/quest-react-base/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
